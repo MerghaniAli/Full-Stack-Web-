@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    font: italic 1.2em "Fira Sans", serif;
+}
+h1{
+    color: navy;
+    margin-left: 500px;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
